@@ -18,16 +18,16 @@ Lastly, in the last section, the key findings of this experiment will be elabora
 # Attribute information
 
 Date : year-month-day <br>
-Rented Bike count: Count of bikes rented at each hour, the response variable 
-Hour: Hour of the day
-Temperature: Temperature in Celsius
-Humidity: in %
-Windspeed: m/s
-Visibility: 10m
-Dew point temperature: Celsius
-Solar radiation: MJ/m2
-Rainfall: mm
-Snowfall: cm
-Seasons: Winter, Spring, Summer, Autumn
-Holiday: Holiday/No holiday, indicating if the corresponding date is a public holiday or not
-Functional Day: NoFunc(Non Functional Hours), Fun(Functional hours), the variable indicates the days when the rental bike system does not operate.
+Rented Bike count: Count of bikes rented at each hour, the response variable <br>
+Hour: Hour of the day <br>
+Temperature: Temperature in Celsius <br>
+Humidity: in % <br>
+Windspeed: m/s <br>
+Visibility: 10m <br>
+Dew point temperature: Celsius <br>
+Solar radiation: MJ/m2 <br>
+Rainfall: mm <br>
+Snowfall: cm <br>
+Seasons: Winter, Spring, Summer, Autumn <br>
+Holiday: Holiday/No holiday, indicating if the corresponding date is a public holiday or not <br>
+Functional Day: NoFunc(Non Functional Hours), Fun(Functional hours), the variable indicates the days when the rental bike system does not operate. <br>
