@@ -13,3 +13,21 @@ The fifth section is related to model development which is about how to derive t
 The sixth secton discusses the results derived from the previous model development section.It will look at the pros and cons of each model and the important predictors extracted from those models.
 
 Lastly, in the last section, the key findings of this experiment will be elaborated.
+
+
+## Attribute information
+
+Date : year-month-day
+Rented Bike count: Count of bikes rented at each hour, the response variable 
+Hour: Hour of the day
+Temperature: Temperature in Celsius
+Humidity: in %
+Windspeed: m/s
+Visibility: 10m
+Dew point temperature: Celsius
+Solar radiation: MJ/m2
+Rainfall: mm
+Snowfall: cm
+Seasons: Winter, Spring, Summer, Autumn
+Holiday: Holiday/No holiday, indicating if the corresponding date is a public holiday or not
+Functional Day: NoFunc(Non Functional Hours), Fun(Functional hours), the variable indicates the days when the rental bike system does not operate.
