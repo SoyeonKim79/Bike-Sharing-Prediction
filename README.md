@@ -1,4 +1,4 @@
-# Bike-sharing-prediction
+# Notebook Description
 
 This notebook contains the process and results of the data analysis performed on a set of rental bike demand data. The aim of analysis is to bulid statistical learning models which can predict the bike sharing demands and identify the key features that are strongly associated with them.
 
@@ -15,9 +15,9 @@ The sixth secton discusses the results derived from the previous model developme
 Lastly, in the last section, the key findings of this experiment will be elaborated.
 
 
-## Attribute information
+# Attribute information
 
-Date : year-month-day
+Date : year-month-day <br>
 Rented Bike count: Count of bikes rented at each hour, the response variable 
 Hour: Hour of the day
 Temperature: Temperature in Celsius
