@@ -31,3 +31,13 @@ Snowfall: cm <br>
 Seasons: Winter, Spring, Summer, Autumn <br>
 Holiday: Holiday/No holiday, indicating if the corresponding date is a public holiday or not <br>
 Functional Day: NoFunc(Non Functional Hours), Fun(Functional hours), the variable indicates the days when the rental bike system does not operate. <br>
+
+# Points could have been improved
+* As a data scientist, providing others (including publics) interesting insights of the data, rather than just telling them about statistical information.
+* Connecting the characteristics of data to model selection in more detail
+* Model comparison: 
+1) Looking at other comparison metrics such as MAE (Mean Absolute Error) and CV (Coefficient of Variance) to compare different regression models 
+2) Including more discussion and observation about R2 (R-squared) metric on the test data
+3) Including more in-depth analysis and detailed comparison study such as model complexity
+4) Drawing the calibration plot (actual vs. predicted values) to visually show the accuracy of the models
+* Removing redundant codes
